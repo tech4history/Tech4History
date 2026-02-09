@@ -1,6 +1,6 @@
 # Tech4History 🏛️
 
-![alt text](https://github.com/tech4history/Tech4History/images/logo.jpeg?raw=true)
+![alt text]([https://github.com/tech4history/Tech4History/blob/main/images/logo.jpeg])
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?style=flat-square&logo=github)](https://novatron10202.github.io/Tech4History)
 [![FRC Team](https://img.shields.io/badge/FRC%20Team-10202-gold?style=flat-square)](https://www.thebluealliance.com/team/10202)
