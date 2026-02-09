@@ -1,16 +1,96 @@
-## Hi there 👋
+# Tech4History 🏛️
 
-<!--
-**tech4history/Tech4History** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?style=flat-square&logo=github)](https://novatron10202.github.io/Tech4History)
+[![FRC Team](https://img.shields.io/badge/FRC%20Team-10202-gold?style=flat-square)](https://www.thebluealliance.com/team/10202)
 
-Here are some ideas to get you started:
+> **"Kültürel Mirası Korumak, Geleceği Kurtarmaktır"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech4History, **Novatron 10202 FRC Takımı** öğrencileri tarafından geliştirilen; gençler arasında kültürel miras farkındalığını artırmayı ve tarihi koruma bilincini teknolojiyle güçlendirmeyi amaçlayan bir sosyal sorumluluk projesidir.
+
+---
+
+## 🎯 Proje Hakkında
+
+Tech4History, Türkiye'nin antik bölgelerini ve kültürel mirasını koruma bilincini gençler arasında yaymayı amaçlayan bir farkındalık projesidir.
+
+### Amaçlarımız
+- 📚 Gençlere kültürel mirasın değerini anlatmak
+- 🔬 Arkeolojiyi teknolojiyle buluşturmak
+- 💻 Tarihi dijital dünyada da yaşatmak
+- 🤝 "Tarihi Korumak Hepimizin Sorumluluğu" bilinci oluşturmak
+
+---
+
+## 🚀 Misyonumuz
+
+- Kültürel mirasın korunması konusunda toplumsal farkındalık oluşturmak
+- Gençlere tarih, bilim ve teknolojiyi bir arada deneyimletebilmek
+- Sosyal medya, eğitim etkinlikleri ve dijital içeriklerle geniş kitlelere ulaşmak
+- Her öğrenciyi kültürel mirasın koruyucusu olmaya teşvik etmek
+- FIRST değerleriyle uyumlu, sürdürülebilir bir sosyal etki modeli geliştirmek
+
+## 🔮 Vizyonumuz
+
+- Türkiye'de gençlerin kültürel mirasa sahip çıkan bilinçli bireyler haline gelmesini sağlamak
+- Tech4History'yi ulusal çapta bilinen bir dijital farkındalık platformuna dönüştürmek
+- Toplumda tarih bilinci ve koruma motivasyonunu artıran güçlü bir eğitim hareketi oluşturmak
+
+---
+
+## 🛠️ Teknolojiler
+
+Bu website aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
+
+- **HTML5** - Semantik yapı
+- **CSS3** - Modern tasarım, animasyonlar ve responsive layout
+- **JavaScript** - Etkileşimli özellikler
+- **Google Fonts** - Outfit font ailesi
+
+---
+
+## 📁 Proje Yapısı
+
+```
+Tech4History/
+├── index.html      # Ana sayfa
+├── style.css       # CSS stilleri
+├── script.js       # JavaScript dosyası
+└── README.md       # Bu dosya
+```
+
+---
+
+## 🌐 Canlı Demo
+
+Website'i görüntülemek için: [Tech4History](https://novatron10202.github.io/Tech4History)
+
+---
+
+## 👥 Ekip
+
+**Novatron Robotics** - FRC Team 10202
+
+Teknolojiye olan tutkusunu toplumsal faydayla birleştiren genç bir FIRST Robotics Competition takımı.
+
+---
+
+## 📄 Lisans
+
+Bu proje **Novatron 10202 FRC Takımı** tarafından geliştirilmiştir.
+
+---
+
+## 📞 İletişim
+
+- 🌐 Website: [Tech4History](https://novatron10202.github.io/Tech4History)
+- 🤖 The Blue Alliance: [Team 10202](https://www.thebluealliance.com/team/10202)
+
+---
+
+<div align="center">
+
+**Novatron 10202** ile ❤️ ve 🔧 kullanılarak yapıldı
+
+*"Sadece robot üreten bir ekip değil; aynı zamanda sosyal etkisi yüksek projeler geliştiren, çevresine ilham veren bir topluluğuz."*
+
+</div>
