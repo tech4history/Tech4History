@@ -1,5 +1,7 @@
 # Tech4History 🏛️
 
+![alt text](https://github.com/tech4history/Tech4History/blob/images/logo.jpg?raw=true)
+
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?style=flat-square&logo=github)](https://novatron10202.github.io/Tech4History)
 [![FRC Team](https://img.shields.io/badge/FRC%20Team-10202-gold?style=flat-square)](https://www.thebluealliance.com/team/10202)
 
@@ -48,29 +50,11 @@ Bu website aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 ---
 
-## 📁 Proje Yapısı
-
-```
-Tech4History/
-├── index.html      # Ana sayfa
-├── style.css       # CSS stilleri
-├── script.js       # JavaScript dosyası
-└── README.md       # Bu dosya
-```
-
 ---
 
 ## 🌐 Canlı Demo
 
-Website'i görüntülemek için: [Tech4History](https://novatron10202.github.io/Tech4History)
-
----
-
-## 👥 Ekip
-
-**Novatron Robotics** - FRC Team 10202
-
-Teknolojiye olan tutkusunu toplumsal faydayla birleştiren genç bir FIRST Robotics Competition takımı.
+Website'i görüntülemek için: [Tech4History](https://tech4history.github.io/tech4history)
 
 ---
 
@@ -80,17 +64,6 @@ Bu proje **Novatron 10202 FRC Takımı** tarafından geliştirilmiştir.
 
 ---
 
-## 📞 İletişim
-
-- 🌐 Website: [Tech4History](https://novatron10202.github.io/Tech4History)
-- 🤖 The Blue Alliance: [Team 10202](https://www.thebluealliance.com/team/10202)
-
----
-
 <div align="center">
-
-**Novatron 10202** ile ❤️ ve 🔧 kullanılarak yapıldı
-
-*"Sadece robot üreten bir ekip değil; aynı zamanda sosyal etkisi yüksek projeler geliştiren, çevresine ilham veren bir topluluğuz."*
-
+**Novatron 10202** tarafından ❤️ ile hazırlandı.
 </div>
